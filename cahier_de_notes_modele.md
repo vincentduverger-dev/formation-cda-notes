@@ -1,0 +1,194 @@
+# 📓 Cahier de notes – Formation CDA
+
+## 📅 Date : 15/09/2025
+
+## 📝 Cours du jour : présentation de l'organisation
+
+Résumé organisation de la formation :
+- Formateur
+- Référent de promo "Jerôme Bouteyre" : accompagne tout au long de la formation. (motivation, problème...)
+- Helper : aide au formateur pour aider pendant les cours.
+- CPAC: conseiller parcours apprenant (en cas de soucis personnel pour pouvoir continuer la formation).
+- pedagogie@oclock.io : si problème administratif...
+- stages@oclock.io : pour ce qui concerne le stage, etc...
+- SAV = -si problème technique, logistique ==> canal Slack #sav
+
+# 📅 Semaine type
+
+- Lundi - Mardi - Mercredi - Jeudi : 9h à 12h - cours     13h à 15h - cours     15h à 17h - Challenge.
+- Vendredi : Activités transverses en autonomie (ateliers et exercices de révisions, pratique de l'anglais, préparation au TP, sujets annexes, etc...)
+
+## 💻 Le programme de la formation 
+
+# Développeur Front End (245h)
+
+A01
+Préparation
+
+A02
+Intégration
+
+A03
+Bonnes pratiques web
+
+A04
+Langage JavaScript
+
+A05
+Manip. et événements
+
+A06
+Framework & CMS
+
+A07
+Projet Front End
+
+# Développeur Back End (315h)
+
+BOO
+Préparation
+
+B01
+Serveur
+
+B02
+Architecture Back End
+
+B03
+Conception & BDD
+
+B04
+BDD avancées
+
+B05
+POO et ORM
+
+B06
+API REST
+
+B07
+Gestion des accès
+
+B08
+Déploiement de projet
+
+# Projet en groupe à présenter à notre jury le jour du passage du TP
+
+B09
+Projet || Apothéose
+
+APO
+Apothéose
+
+APO
+Apothéose
+
+# Expert JavaScript (385h)
+
+COO
+Préparation
+
+C01
+Analyse et conception
+
+C02
+Devops
+
+C03
+Typescript & microservice I
+
+C04
+Typescript & microservice lI
+
+C05
+GraphQL
+
+C06
+React I
+
+C07
+React Il
+
+APO
+Apothéose
+APO
+Apothéose
+APO
+Apothéose
+APO
+Apothéose
+
+
+# Certification CDA
+
+Quelle formation pour quel TP ?
+
+• Développeur Front End
+• • DWWM (Première "moitié")
+
+• Développeur Web Full Stack
+• → DWWM (complet)
+
+• Concepteur Développeur Web
+• • CDA
+
+
+# Inscription au TP CDA
+
+Pas de stress
+• Des ateliers et challenges sont prévus tout au long de la formation pour vous guider.
+• Vous recevrez un formulaire pour vous inscrire à votre session TP !
+• On en reparle plus en détail en fin de semaine...
+
+
+# Recherche d'emploi
+
+Des ateliers sont prévus lors de la formation pour vous accompagner dans votre recherche d'emploi :
+• un atelier TRE - Technique de Recherche d'Emploi
+• un atelier CV
+
+# Aller loin, tout en restant chez soi...
+
+Une opportunité mais aussi un défi !
+Des centaines d'heures de travail en perspective
+Un planning, des horaires, bien faire comprendre à nos proches que c'est important qu'ils respectent cela.
+
+# Aller loin, en quelques mois... © ça va vite !
+
+Faites de votre mieux pour ne pas laisser de retard s'accumuler
+N'hésiter pas à poser les questions pour bien comprendre.
+Profitez de l'après midi pour assimiler les notions de la journée, important le 15h à 17h. mais depasser par les 2 et 3h.
+On ne demande pas de tout apprendre, retenir la notion mais pas le code en lui même, il y a la documentation pour ça.
+Ne pas se comparer aux autres on a un parcours différent et on part pas tout du même point.
+
+# 5 choses à ne pas oublier !
+
+1- Poser les questions !
+2- Cous êtes largués ? c'est normal, etre developpeur on passe beaucoup de temps devant des choses qu'on ne comprend pas de suite.
+3- Restez concentré sur la formation O'Clock.
+4- Attention à la fatigue est respecter le planning.
+5- Gardez toujours le sourire ! c'est important, laisser le temps de comprendre.
+
+# frontControllers 
+
+ We want you to vote !
+• FrontController = délégué
+• Sert d'intermédiaire entre votre promo et nous
+• Manifestez-vous !
+• Le vote aura lieu la semaine prochaine.
+
+# Lien pour accéder à la classe
+
+Lien envoyé tous les jours.
+Outils salle de classe : BIG BLUE BUTTON
+Utilisation de la salle de classe : en cliquant sur le nom d'utilisateur on peu lui envoyé un MP
+Envoyé la question sur le chat public c'est mieux.
+Notes partagés par le formateur su besoin.
+on va recevoir le lien sur slack
+Utilisation du replay : noter le moment que l'on veut voir.
+C'est important de pratiquer pour progresser, se servir du replay que pour revoir un point précis.
+le replay est conservé un an. 
+
+Utilisation de slack : utiliser les fils de discussion pour répondre à quelqu'un.
+
+Outil Kourou pour les résumé de la journée
